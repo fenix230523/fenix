@@ -1,0 +1,9 @@
+body{background-color:rgb(25, 214, 57);}
+ul li {
+    display: inline;
+}
+#fenix2{
+    border: 2px solid red;
+    width: 500px;
+    height: 100vh;
+}
